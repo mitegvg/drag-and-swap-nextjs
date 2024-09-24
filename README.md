@@ -32,3 +32,11 @@ This app uses Jest for testing. To run the tests:
 ```bash
 npm test
 ```
+
+## Storybook
+
+This app uses Story book for docs
+
+```bash
+npm run storybook
+```
